@@ -11,4 +11,4 @@ To run the code:
 
 5. I have completed this project multiple times, firstly on paper, then Excel and here Python. I plan to complete it again someday using reinforcement learning!
 
-6. Thank you! :)
+Thank you! :)
